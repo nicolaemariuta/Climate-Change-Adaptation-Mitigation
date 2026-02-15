@@ -1,0 +1,14 @@
+# NetCDF files
+*.nc
+
+# GeoTIFF files
+*.tif
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+
+# OS files
+.DS_Store
