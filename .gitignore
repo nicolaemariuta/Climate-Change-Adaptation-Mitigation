@@ -4,6 +4,9 @@
 # GeoTIFF files
 *.tif
 
+# ZIP files
+*.zip
+
 # Jupyter checkpoints
 .ipynb_checkpoints/
 

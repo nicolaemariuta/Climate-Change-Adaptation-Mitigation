@@ -1,0 +1,10 @@
+xarray
+rioxarray
+cartopy
+matplotlib
+numpy
+scipy
+dask
+netcdf4
+cfgrib
+cdsapi
