@@ -7,6 +7,15 @@
 # ZIP files
 *.zip
 
+# pdf files
+*.pdf
+
+# ovr files
+*.ovr
+
+# xlsx files
+*.xlsx
+
 # Jupyter checkpoints
 .ipynb_checkpoints/
 
